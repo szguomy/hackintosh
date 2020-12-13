@@ -1,6 +1,6 @@
 # Hackintosh for Intel QC7 Laptop
 
-Intel® NUC 9 Extreme Laptop Kit - LAPQC71D
+Intel® NUC 9 Extreme Laptop Kit - LAPQC71D  
 same with intel tongfang qc7
 
 
@@ -19,19 +19,25 @@ same with intel tongfang qc7
 | # of USB Ports           | 3                                                           |
 | Integrated Wireless‡     | Intel® Wi-Fi 6 AX200                                        |
 | # of Thunderbolt™ Ports  | 1x Thunderbolt™ 3                                           |
+| Lcd Resolution           | 4k             |
 
+
+## Host installed
+* HeliPort for wifi
+* HotkeyDaemon for hotkey and osd display
 
 ## Function Key
 
 
 | Key  |  Function |
 |---|---|
-|  F2 |  ScreenLock |
-|  Fn+F2 |  Sleep |
-
+|  F2 |  screenLock |
+|  Fn+F2 |  sleep |
+|  Fn+F3~F12| functions as keyboard show|
+|  DClick tpad l-t corner| function as Fn+F5|
 
 
 ## Thanks
-https://github.com/kirainmoe/hasee-tongfang-macos
-https://github.com/Goshin/VoodooWMI
+https://github.com/kirainmoe/hasee-tongfang-macos<br/>
+https://github.com/Goshin/VoodooWMI<br/>
 https://github.com/tekteq/opencanopy-minimal-theme
