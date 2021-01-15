@@ -19,11 +19,11 @@ same with intel tongfang qc7
 | # of USB Ports           | 3                                                           |
 | Integrated Wireless‡     | Intel® Wi-Fi 6 AX200                                        |
 | # of Thunderbolt™ Ports  | 1x Thunderbolt™ 3                                           |
-| Lcd Resolution           | 4k             |
+| Lcd Resolution           | BOE 4k             |
 
 
 ## Host installed
-* HeliPort for wifi
+* AirportItlwm for wifi
 * HotkeyDaemon for hotkey and osd display
 
 ## Function Key
